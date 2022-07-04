@@ -6,4 +6,4 @@
 -Linux Operating System
 -Programming with Data
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=maryclayton512)
+[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryclayton512)](https://github.com/maryclayton512/github-readme-stats)
