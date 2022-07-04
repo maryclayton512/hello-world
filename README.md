@@ -1,5 +1,5 @@
 # About me
-## 26. Devry Student. 
+### 26. Devry Student. 
 
 ### Projects:
 -IoT Security Prototype
