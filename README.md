@@ -7,4 +7,5 @@
 -Programming with Data </br>
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryclayton512)](https://github.com/maryclayton512/github-readme-stats) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryclayton512)](https://github.com/maryclayton512/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryclayton512)](https://github.com/maryclayton512/github-readme-stats) </br>
+[![Mary's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maryclayton512)](https://github.com/maryclayton512/github-readme-stats)
