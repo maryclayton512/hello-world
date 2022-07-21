@@ -1,5 +1,5 @@
 # About me
-### 26. Devry Student. 
+### 26. Software Engineer.
 
 ### Projects:
 - IoT Security Prototype </br>
