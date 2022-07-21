@@ -1,5 +1,7 @@
 # About me
 ### 26. Software Engineer.
+- Bachelors of Science in Computer Science from Devry University
+- Bachelors of Art in Web Design
 
 ### Projects:
 - IoT Security Prototype </br>
