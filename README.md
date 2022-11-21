@@ -1,7 +1,7 @@
 # About me
-### 26. Software Engineer.
+### 27. Software Engineer.
 - Bachelors of Science in Computer Science from Devry University
-- Bachelors of Art in Web Design
+- Bachelors of Art in Web Design from Grand Canyon University
 
 ### Projects:
 - IoT Security Prototype </br>
