@@ -1,7 +1,7 @@
 # About me
 ### 27. Software Developer.
-- Bachelors of Science in Computer Science from Devry University
-- Bachelors of Art in Web Design from Grand Canyon University
+- Bachelors of Science in Computer Science from Southern New Hampshire University (2023-Present)
+- Bachelors of Art in Web Design from Grand Canyon University (2014-2018)
 
 ### Projects:
 - IoT Security Prototype </br>
